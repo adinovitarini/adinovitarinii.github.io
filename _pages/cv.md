@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electrical Engineering, Institut Teknologi Sepuluh Nopember, 2019
+* M.Sc. in Electrical Engineering, Institut Teknologi Bandung, 2021
+* Ph.D in Electrical Engineering and Informatics, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-present: Research Assistant
+  * Control and Computer Research Group, School of Electrical Engineering and Informatics, Institut Teknologi Bandung
+  * Supervisor: Professor Carmadi Machbub
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Research Assistant
+  * Autonomous forklift with PT. Charoend Pokhpand Indonesia 
+  * Duties included: Navigation 
+  * Supervisor: Dr. Pranoto Hidaya Rusmin
   
 Skills
 ======
